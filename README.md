@@ -6,6 +6,8 @@ junior dev
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=allanraym0nd&theme=dark&hide_border=false)<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanraym0nd&theme=radical&line_height=27&hide=glsl,python" alt=“Raymond’s Github Stats" /></p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allanraym0nd&theme=dark&background=141321" alt=“Raymond’s Github Stats" /></p>
 
 
 
